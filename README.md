@@ -1,7 +1,6 @@
+Hi I'm Abhishek Dwivedi
 
-Front End Developer My role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I also monitor and process pull requests for production deployments. Technologies used:HTML CSS and JavaScript.
-
-I am looking for an internship in a web development role.
+https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966
 
 
 
